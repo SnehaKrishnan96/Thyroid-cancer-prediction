@@ -1,9 +1,8 @@
 # Predicting Whether a Thyroid Nodule is Cancerous using Machine Learning Algorithms
-### Early diagnosis of thyroid nodules as cancerous or benign is crucial for effective treatment. Traditionally, this involves a series of medical tests. In this project, we leverage machine learning algorithms to predict the likelihood of a thyroid nodule being cancerous based on patient data such as nodule size, diabetes status, smoking habits, age, and more.
 
 ## Overview
 
-This project presents a machine learning-based system for predicting thyroid cancer, with a primary focus on maximizing **recall** to reduce the risk of false negatives—crucial in medical diagnostics. The workflow includes extensive data preprocessing, statistical analysis, model training, and deployment via an interactive **Gradio** interface.
+Early diagnosis of thyroid nodules as cancerous or benign is crucial for effective treatment. Traditionally, this involves a series of medical tests. This project leverages machine learning algorithms to predict the likelihood of a thyroid nodule being cancerous based on patient data such as nodule size, diabetes status, smoking habits, age, and more, with a primary focus on maximizing **recall** to reduce the risk of false negatives—crucial in medical diagnostics. The workflow includes extensive data preprocessing, statistical analysis, model training, and depiction of prediction via an interactive **Gradio** interface.
 
 ---
 
